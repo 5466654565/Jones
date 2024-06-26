@@ -1,0 +1,9 @@
+{
+  "name": "initialization",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "mlpack",
+    "sqlite3"
+  ],
+  "builtin-baseline": "7f9f0e44db287e8e67c0e888141bfa200ab45121"
+}
