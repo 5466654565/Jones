@@ -8,25 +8,25 @@ Before installing and running the project, please ensure the following prerequis
 
 ** Project Configuration and Environment Details
 
-Project name						Jones
-System								Windows 11 x64
+Project name					Jones
+System						Windows 11 x64
 C++ Language Standard	 			ISO C++20 Standard (/std:c++20)
 C Language Standard  				ISO C17 (2018) Standard (/std:c17)
-IDE  								Visual Studio 2022 (v143)
-Caracter set  						Unicode
-Compilateur   						MSVC
-Template   							MVC (Model-View-Controller) architecture
+IDE  						Visual Studio 2022 (v143)
+Caracter set  					Unicode
+Compilateur   					MSVC
+Template   					MVC (Model-View-Controller) architecture
 	Core (Initialization)			Console App
-		Language					Native C++
-		vcpkg mode					Manifest 
-	Bridge							Dynamic-Link Library (DLL)
+		Language			Native C++
+		vcpkg mode			Manifest 
+	Bridge					Dynamic-Link Library (DLL)
 	Interface - Control Panel		CLR Empty Project (.Net Framework)
-		Language					C++/CLI (Common Language Runtime)
-Coordinator		   					MSBuild 
-Build generation   					Cmake
-Package Manager integrated with VS	vcpkg
-	Triplet							x64-windows (Default MSVC)
-Data   								SQLite
+		Language			C++/CLI (Common Language Runtime)
+Coordinator		   			MSBuild 
+Build generation   				Cmake
+Package Manager integrated with VS		vcpkg
+	Triplet					x64-windows (Default MSVC)
+Data   						SQLite
 
 ## Usage
 
